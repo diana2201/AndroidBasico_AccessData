@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AccessData</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_peliculas">PeliculasActivity</string>
+    <string name="title_activity_agregar_pelicula">AgregarPeliculaActivity</string>
+</resources>
